@@ -2,6 +2,7 @@
 layout: splash
 title: "About Me"
 author_profile: true
+classes: wide
 ---
 
 <!-- 메인 히어로 섹션 -->
