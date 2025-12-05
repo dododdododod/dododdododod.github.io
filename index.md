@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "About Me"
+title: "도균"
 author_profile: true
 classes: wide
 ---
