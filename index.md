@@ -1,127 +1,117 @@
-<div style="text-align:center; padding:40px 0; background:#f3f7ff; border-radius:12px;">
-  <h1 style="margin-bottom:10px;">남도균</h1>
-  <p style="font-size:1.2rem; color:#555;">Software Convergence · Developer in Progress</p>
-</div>
-
-
 ---
 layout: single
 title: "About Me"
 author_profile: true
 ---
 
-# 남도균
-
-소프트웨어융합대학 · 개발자를 향해 성장 중
-
----
-
-[자기소개](#자기소개) · [기술-스택](#기술-스택) · [프로젝트](#프로젝트) · [공부-기록blog](#공부-기록blog) · [연락처](#연락처)
+<!-- 메인 히어로 섹션 -->
+<div style="text-align:center; padding:45px 0; background:#f2f6ff; border-radius:12px; margin-bottom:40px;">
+  <h1 style="margin-bottom:10px; font-size:2.4rem; font-weight:700;">남도균</h1>
+  <p style="font-size:1.1rem; color:#555;">Software Convergence Student · Developer in Progress</p>
+</div>
 
 ---
 
-## 자기소개
+# 👋 소개
 
-안녕하세요! 저는 소프트웨어융합대학에서 배움과 성장을 이어가고 있는 남도균입니다.  
-새로운 기술을 접하고, 직접 구현해보며 가능성을 확장해 나가는 과정에서 큰 즐거움을 느끼고 있습니다.
+안녕하세요! 저는 **소프트웨어융합대학**에서 배우고 성장하고 있는 남도균입니다.
 
-문제를 해결할 때 단순히 **답만 찾기보다는 원리와 구조를 이해하는 것**을 중요하게 생각합니다.  
-그래서 알고리즘, 시스템 구조, 웹 동작 방식처럼 기초가 되는 분야를 탐구하는 것을 좋아합니다.
+새로운 기술을 배우고 직접 만들어보는 과정에서 큰 즐거움을 느끼며,  
+문제를 해결할 때 단순히 정답을 찾기보다는  
+**원리와 구조를 이해하는 것**을 가장 중요하게 생각합니다.
 
-개발뿐 아니라 **디자인과 사용자 경험(UX)**에도 관심이 많습니다.  
-“사람들이 편하게 사용할 수 있는 서비스는 무엇일까?”라는 질문을 자주 떠올리며,  
-개발과 기획 사이의 균형을 맞추는 개발자가 되고 싶습니다.
+또한 개발뿐 아니라 **디자인과 사용자 경험(UX)**에도 깊은 관심이 있어,  
+“사람들이 편하게 사용할 수 있는 서비스는 무엇일까?”를 고민하며  
+개발과 기획 사이에서 균형 있는 시각을 가진 개발자가 되고 싶습니다.
 
-아직 배워가는 단계이지만, 저는 **꾸준함**을 가장 큰 장점으로 생각합니다.  
-작은 프로젝트라도 계속 만들고, 새로운 개념을 조금씩 익히며  
-**매일 한 걸음씩 성장하는 개발자**가 되는 것이 목표입니다.
-
----
-
-## 기술 스택
-
-> 사용해본 기술과 현재 배우는 중인 것들을 정리하고 있습니다.
-
-**언어(Language)**  
-- C  
-- Python (기초 문법 & 간단한 스크립트)  
-- JavaScript (웹 기초)
-
-**웹 & 프론트엔드**  
-- HTML, CSS  
-- 간단한 정적 웹 페이지 제작  
-- GitHub Pages를 활용한 개인 페이지 배포
-
-**도구(Tools)**  
-- Git, GitHub  
-- Visual Studio / VS Code  
-- 기본적인 터미널 사용 경험
-
-**관심 분야(Interested In)**  
-- 자료구조 & 알고리즘  
-- 웹 서비스 개발  
-- UX/UI, 인터랙션 디자인  
-
-> 이 섹션은 앞으로 배우는 기술이 늘어날수록 계속 업데이트할 예정입니다.
+아직은 배움의 과정에 있지만, **꾸준함**은 누구보다 자신 있는 강점입니다.  
+매일 조금씩 성장하며 더 나은 개발자가 되기 위해 노력하고 있습니다.
 
 ---
 
-## 프로젝트
+# 🛠 기술 스택
 
-> 아직은 연습용/학습용 프로젝트 위주이지만, 차근차근 채워 나가고 있습니다.
+<div style="margin: 20px 0;">
 
-### 1. GitHub Pages 개인 소개 페이지
-- **설명**: 지금 보고 있는 이 페이지. 나를 소개하고, 공부 기록과 프로젝트를 모아두는 공간입니다.
-- **기술 스택**: `HTML`, `Markdown`, `GitHub Pages`
-- **역할**: 기획 · 디자인 · 개발 전부 직접 진행
-- **링크**: [https://dododdododod.github.io](https://dododdododod.github.io)
+<!-- 언어 -->
+<h3>🧩 Language</h3>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-### 2. C 언어 실습 모음 (예정 / 정리 예정)
-- **설명**: 수업 및 개인 공부를 통해 작성한 C 언어 예제 코드들을 정리하는 레포지토리
-- **내용 예시**:
-  - 파일 입출력 예제
-  - 간단한 텍스트 처리 프로그램
-  - 반복문/조건문/함수 연습 코드
-- **링크**: (추가 예정)
+<br><br>
 
-### 3. 간단한 알고리즘 문제 풀이 정리 (예정)
-- **설명**: 배열, 정렬, 탐색 등 기초 알고리즘 문제를 풀고 코드 + 해설을 정리할 계획입니다.
-- **기술 스택**: `C`, 추후 `Python` 추가 예정
+<!-- 프론트엔드 -->
+<h3>🎨 Web / Frontend</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white">
 
-> 나중에 실제로 프로젝트를 만들면,  
-> 이 섹션에 **스크린샷 / 사용 기술 / 맡은 역할 / 느낀 점**을 더 자세히 적어 두면 좋아요.
+<br><br>
 
----
+<!-- 툴 -->
+<h3>🧰 Tools</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 
-## 공부 기록(Blog)
-
-> “완벽한 글”이 아니라, **내가 배운 것을 남겨두는 메모장** 느낌으로 사용하려고 합니다.
-
-예시로 이런 글들을 쓸 수 있어요:
-
-- `C 언어로 파일 읽기/쓰기 해보기 (fopen, fgets, fgetc 정리)`
-- `Git 기초 명령어 정리 (clone, add, commit, push)`
-- `GitHub Pages로 첫 개인 페이지 만들기`
-- `배운 알고리즘 한 줄 요약 모음`
-
-처음에는 아래처럼 간단한 목록 형태로 시작해도 됩니다:
-
-- (작성 예정) `C 언어로 텍스트 파일 줄 번호 붙여 출력하기`
-- (작성 예정) `GitHub에 첫 레포지토리 올려본 후기`
-- (작성 예정) `배운 개념을 내 말로 다시 설명해 보기`
-
-> 블로그 기능을 제대로 쓰고 싶다면, 나중에 Jekyll 테마를 입혀서  
-> `/_posts` 폴더를 만들어 글을 관리하는 방식으로 확장할 수도 있습니다.
+</div>
 
 ---
 
-## 연락처
+# 📁 프로젝트
 
-궁금한 점이나 편하게 이야기하고 싶다면 언제든지 아래 이메일로 연락해주세요.
+> 연습용, 학습용 작업부터 차근차근 채워나가는 공간입니다.
 
-- 📧 **이메일**: `ndg4355@naver.com`  
-- 🐱 GitHub: [https://github.com/dododdododod](https://github.com/dododdododod)
+### 🚀 GitHub Pages 개인 소개 페이지
+<div style="padding:18px; border:1px solid #e5e5e5; border-radius:12px; margin:10px 0 25px;">
+  <p><strong>설명:</strong> 지금 보고 있는 이 사이트. 나를 소개하고 공부 기록과 프로젝트를 정리하는 공간입니다.</p>
+  <p><strong>기술 스택:</strong> HTML, Markdown, GitHub Pages</p>
+  <a href="https://dododdododod.github.io" style="font-weight:600;">🔗 프로젝트 링크</a>
+</div>
+
+### 📘 C 언어 실습 모음 (예정)
+<div style="padding:18px; border:1px solid #e5e5e5; border-radius:12px; margin:10px 0 25px;">
+  <p>수업 및 개인 공부를 통해 작성한 예제들을 모아둘 예정입니다.</p>
+  <ul>
+    <li>파일 입출력 예제</li>
+    <li>문자열 처리</li>
+    <li>반복문/조건문/함수 연습 코드</li>
+  </ul>
+</div>
+
+### 🧠 알고리즘 문제 풀이 (예정)
+<div style="padding:18px; border:1px solid #e5e5e5; border-radius:12px; margin:10px 0 25px;">
+  <p>배열, 정렬, 탐색 등 기초 알고리즘 문제를 풀고 정리할 계획입니다.</p>
+</div>
 
 ---
 
-© 2025 남도균. All Rights Reserved.
+# ✏️ 공부 기록 (Blog)
+
+공부한 내용을 **짧게라도 기록해두는 습관**을 만들고 싶습니다.  
+완벽한 글이 아닌 “내가 배운 것을 남기는 공간”으로 사용할 예정입니다.
+
+📌 작성 예정 글  
+- C 언어 파일 입출력 정리  
+- Git 기본 명령어 요약  
+- GitHub Pages 구축 과정  
+- 알고리즘 개념 요약  
+
+> 나중에 `_posts` 폴더를 만들어 블로그 기능을 확장할 수 있습니다.
+
+---
+
+# 📬 연락처
+
+궁금한 점이나 편하게 이야기하고 싶다면 언제든지 연락해주세요!
+
+- 📧 이메일: **ndg4355@naver.com**  
+- 🐱 GitHub: <https://github.com/dododdododod>
+
+---
+
+<div style="text-align:center; margin-top:40px; color:#777;">
+  © 2025 남도균. All Rights Reserved.
+</div>
