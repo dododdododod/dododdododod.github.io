@@ -1,3 +1,9 @@
+<div style="text-align:center; padding:40px 0; background:#f3f7ff; border-radius:12px;">
+  <h1 style="margin-bottom:10px;">남도균</h1>
+  <p style="font-size:1.2rem; color:#555;">Software Convergence · Developer in Progress</p>
+</div>
+
+
 ---
 layout: single
 title: "About Me"
