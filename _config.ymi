@@ -1,0 +1,16 @@
+title: "남도균"
+description: "Software Convergence Student · Developer in Progress"
+theme: "minimal-mistakes-jekyll"
+
+# Minimal Mistakes 설정
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+
+# 기본 설정
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
